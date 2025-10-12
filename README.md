@@ -10,8 +10,6 @@
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ims3m&show_icons=true&theme=minimal&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ims3m&theme=minimal&hide_border=true)
 
 ---
@@ -22,7 +20,7 @@
 
 ###  Activity Overview
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaginiSharma01&theme=default)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ims3m&theme=default)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ims3m&theme=default)
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ims3m&theme=default&utcOffset=5.5)
