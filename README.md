@@ -10,7 +10,7 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ims3m&theme=monokai&hide_border=true)](https://git.io/streak-stats)
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ims3m&show_icons=true&theme=transparent)
 
 ---
 
