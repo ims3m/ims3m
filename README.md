@@ -8,11 +8,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ims3m&show_icons=true&theme=transparent)
-
----
 
 ###  Contribution Graph
 
