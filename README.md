@@ -9,7 +9,7 @@
 ---
 
 
-###  Contribution Graph
+<!-- ###  Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ims3m&theme=minimal&hide_border=true)
 
@@ -18,4 +18,5 @@
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ims3m&theme=default)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ims3m&theme=default)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ims3m&theme=default&utcOffset=5.5)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ims3m&theme=default&utcOffset=5.5) -->
+
